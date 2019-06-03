@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    color: red;
+    font-family: Arial;
+}
+
+body {
+    background: cornflowerblue;
+
+}
+
+h2 {
+    text-align: left;
+    color: white;
+    font-family: Arial;
+}
